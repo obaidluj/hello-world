@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository for the purpose of completing a nanodegree course and hopefully I become a frequent user to Github.
+I'm experimenting a tech thing here and it looks fun by far. 
